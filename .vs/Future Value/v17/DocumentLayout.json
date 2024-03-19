@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\future value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\future value\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|c:\\users\\sunday oluwapelumi\\source\\repos\\future value\\future value\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|c:\\users\\sunday oluwapelumi\\source\\repos\\future value\\future value\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\future value\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\models\\futurevaluemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\future value\\contollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\contollers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|c:\\users\\sunday oluwapelumi\\source\\repos\\future value\\future value\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\views\\shared\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|c:\\users\\sunday oluwapelumi\\source\\repos\\future value\\future value\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\future value\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\future value\\future value.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57F3808D-B925-424D-96C9-08534F7ADA13}|Future Value\\Future Value.csproj|solutionrelative:future value\\future value.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\appsettings.json",
+              "RelativeDocumentMoniker": "Future Value\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\appsettings.json",
+              "RelativeToolTip": "Future Value\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-18T19:25:10.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Future Value\\Views\\Shared\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\Shared\\_ViewStart.cshtml",
+              "RelativeToolTip": "Future Value\\Views\\Shared\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T23:34:03.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Future Value\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Future Value\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T23:33:42.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Custom.css",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\wwwroot\\css\\Custom.css",
+              "RelativeDocumentMoniker": "Future Value\\wwwroot\\css\\Custom.css",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\wwwroot\\css\\Custom.css",
+              "RelativeToolTip": "Future Value\\wwwroot\\css\\Custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T23:27:24.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Future Value\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Future Value\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T22:21:40.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FutureValueModel.cs",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Models\\FutureValueModel.cs",
+              "RelativeDocumentMoniker": "Future Value\\Models\\FutureValueModel.cs",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Models\\FutureValueModel.cs",
+              "RelativeToolTip": "Future Value\\Models\\FutureValueModel.cs",
+              "ViewState": "AQIAAAIAAAAwMzMzMzMbwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T22:11:13.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Future Value\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Future Value\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T20:24:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Contollers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Future Value\\Contollers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Contollers\\HomeController.cs",
+              "RelativeToolTip": "Future Value\\Contollers\\HomeController.cs",
+              "ViewState": "AQIAAAcAAACgmZmZmZklwBYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T20:10:59.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Future Value.csproj",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Future Value.csproj",
+              "RelativeDocumentMoniker": "Future Value\\Future Value.csproj",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Future Value.csproj",
+              "RelativeToolTip": "Future Value\\Future Value.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T19:42:25.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Program.cs",
+              "RelativeDocumentMoniker": "Future Value\\Program.cs",
+              "ToolTip": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\Program.cs",
+              "RelativeToolTip": "Future Value\\Program.cs",
+              "ViewState": "AQIAAAYAAABAF/OtFS8lwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T19:41:43.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

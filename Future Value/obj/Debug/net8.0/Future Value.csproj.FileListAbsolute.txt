@@ -1,0 +1,28 @@
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\appsettings.json
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\Future Value.exe
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\Future Value.deps.json
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\Future Value.runtimeconfig.json
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\Future Value.dll
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\Future Value.pdb
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.AssemblyInfoInputs.cache
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.AssemblyInfo.cs
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.csproj.CoreCompileInputs.cache
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\staticwebassets\msbuild.Future Value.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\staticwebassets\msbuild.build.Future Value.props
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Future Value.props
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Future Value.props
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\scopedcss\bundle\Future Value.styles.css
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.dll
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\refint\Future Value.dll
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.pdb
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.genruntimeconfig.cache
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\ref\Future Value.dll
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.RazorAssemblyInfo.cache
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\obj\Debug\net8.0\Future Value.RazorAssemblyInfo.cs
+C:\Users\Sunday Oluwapelumi\source\repos\Future Value\Future Value\bin\Debug\net8.0\Future Value.staticwebassets.runtime.json

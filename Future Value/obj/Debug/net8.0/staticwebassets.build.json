@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "G/BJ3Vwi6Ee8sdMK4CB3GYpFUnPClbvBlI7MI7K2A7Q=",
+  "Source": "Future Value",
+  "BasePath": "_content/Future Value",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Future Value\\wwwroot",
+      "Source": "Future Value",
+      "ContentRoot": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\wwwroot\\",
+      "BasePath": "_content/Future Value",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\wwwroot\\css\\Custom.css",
+      "SourceId": "Future Value",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Sunday Oluwapelumi\\source\\repos\\Future Value\\Future Value\\wwwroot\\",
+      "BasePath": "_content/Future Value",
+      "RelativePath": "css/Custom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Custom.css"
+    }
+  ]
+}
